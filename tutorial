@@ -1,0 +1,12 @@
+public class androidapp {
+	public static void main(String[]orgs) {
+	System.out.println("Step 1: Install Android Studio. ...\n" + 
+			"Step 2: Open a New Project. ...\n" + 
+			"Step 3: Edit the Welcome Message in the Main Activity. ...\n" + 
+			"Step 4: Add a Button to the Main Activity. ...\n" + 
+			"Step 5: Create a Second Activity. ...\n" + 
+			"Step 6: Write the Button's \"onClick\" Method. ...\n" + 
+			"Step 7: Test the Application. ...\n" + 
+			"Step 8: Up, Up, and Away!");
+	}
+	}
